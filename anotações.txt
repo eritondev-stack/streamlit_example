@@ -1,0 +1,19 @@
+# import os
+# directory = os.getcwd()
+
+# with open(f"{directory}/tailwind/output.css") as f:
+#     css = f.read()
+#     st.markdown(f"""
+#         <style> 
+#         {css}
+#         </style>
+#         """, unsafe_allow_html=True)
+
+
+
+# st.markdown(
+#             f"""
+#             <link href="https://unpkg.com/tailwindcss@^2.0/dist/tailwind.min.css" rel="stylesheet">
+#             """,
+#             unsafe_allow_html=True
+# )
